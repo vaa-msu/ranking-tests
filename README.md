@@ -32,3 +32,24 @@ Here are some tests with rankings published by various authors.
 
 ## Тестирование функции `consensus()` из пакета `Rankings.jl`
 
+- [4 альтернативы](4-alternatives.ipynb)
+
+- [5 альтернатив](5-alternatives.ipynb)
+
+- [6 альтернатив](6-alternatives.ipynb)
+
+- [7 альтернатив](7-alternatives.ipynb)
+
+- [9 альтернатив](9-alternatives.ipynb)
+
+- [10 альтернатив](10-alternatives.ipynb)
+
+- [12 альтернатив](12-alternatives.ipynb)
+
+- [13 альтернатив](13-alternatives.ipynb)
+
+- [14 альтернатив](14-alternatives.ipynb)
+
+- [15 альтернатив](15-alternatives.ipynb)
+
+- [20 альтернатив](20-alternatives.ipynb)
